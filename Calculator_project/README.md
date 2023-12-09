@@ -41,8 +41,8 @@ Can use the LCD with two mode (four bit mode and eight bit mode)use for reduse t
 1. Set up the AVR development environment (e.g., AVR-GCC, AVRDUDE).
 2. Clone this repository:
 ## Video Test
-https://github.com/IbrahemAshour/project_AVR/blob/main/Calculator_project/cal_project.mkv
 
+(https://drive.google.com/file/d/1N1R4RXEDvSbS2i0MVaaOLb5aQ22BpHZo/view?usp=sharing)
 ## Input Validation
 The calculator includes input validation to handle invalid expressions gracefully. If an invalid expression is entered, the calculator will display an error message on the LCD and prompt for a new input.
 
