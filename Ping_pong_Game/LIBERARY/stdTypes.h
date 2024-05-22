@@ -3,7 +3,7 @@
  *
  *  Created on	: Mar 31, 2020
  *  Version		: 1.0.0
- *  Author		: Ahmed El-Gaafarwy
+ *  Author		: Ibarhem Ashour
  */
 
 #ifndef STDTYPES_H_

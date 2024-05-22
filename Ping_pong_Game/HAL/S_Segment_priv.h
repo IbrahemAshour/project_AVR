@@ -2,7 +2,7 @@
  * S_Segment_priv.h
  *
  *  Created on: 28 Oct 2023
- *      Author: Alaraby
+ *      Author:Ibarhem Ashour
  */
 
 #ifndef S_SEGMENT_PRIV_H_

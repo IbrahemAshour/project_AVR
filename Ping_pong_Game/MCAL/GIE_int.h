@@ -2,7 +2,7 @@
  * GIE_int.h
  *
  *  Created on: 17 Dec 2023
- *      Author: Alaraby
+ *      Author: Ibarhem Ashour
  */
 
 #ifndef GIE_INT_H_

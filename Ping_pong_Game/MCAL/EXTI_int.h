@@ -2,7 +2,7 @@
  * EXTI_int.h
  *
  *  Created on: 17 Dec 2023
- *      Author: Alaraby
+ *      Author: Ibarhem Ashour
  */
 
 #ifndef MCAL_EXTI_INT_H_

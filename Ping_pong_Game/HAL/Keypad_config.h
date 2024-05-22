@@ -2,7 +2,7 @@
  * Keypad_config.h
  *
  *  Created on: 3 Nov 2023
- *      Author: Alaraby
+ *      Author: Ibarhem Ashour
  */
 
 #ifndef KEYPAD_CONFIG_H_

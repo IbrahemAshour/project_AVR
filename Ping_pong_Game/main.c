@@ -2,7 +2,7 @@
  * main.c
  *
  *  Created on: 3 Feb 2024
- *      Author: Alaraby
+ *      Author: Ibarhem Ashour
  */
 #include"LIBERARY/stdTypes.h"
 #include"LIBERARY/Error_State.h"

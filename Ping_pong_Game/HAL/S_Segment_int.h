@@ -2,7 +2,7 @@
  * S_Segment_int.h
  *
  *  Created on: 28 Oct 2023
- *      Author: Alaraby
+ *      Author: Ibarhem Ashour
  */
 
 #ifndef S_SEGMENT_INT_H_

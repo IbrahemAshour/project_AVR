@@ -2,7 +2,7 @@
  * GIE_prog.c
  *
  *  Created on: 17 Dec 2023
- *      Author: Alaraby
+ *      Author: Ibarhem Ashour
  */
 #include "../LIBERARY/stdTypes.h"
 #include "../LIBERARY/Error_State.h"

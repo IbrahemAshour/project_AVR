@@ -2,7 +2,7 @@
  * DIO_config.h
  *
  *  Created on: Oct 3, 2023
- *      Author: Alaraby
+ *      Author: Ibarhem Ashour
  */
 #ifndef  DIO_CONFIG_H_
 #define  DIO_CONFIG_H_

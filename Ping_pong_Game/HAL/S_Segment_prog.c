@@ -2,7 +2,7 @@
  * S_Segment_prog.c
  *
  *  Created on: 28 Oct 2023
- *      Author: Alaraby
+ *      Author: Ibarhem Ashour
  */
 #include "E:\AVR_Projects\TAsk_Interuupt\stdTypes.h"
 #include "E:\AVR_Projects\TAsk_Interuupt\Error_State.h"

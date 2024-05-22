@@ -2,7 +2,7 @@
  * Error_State.h
  *
  *  Created on: Oct 3, 2023
- *      Author: Alaraby
+ *      Author: Ibarhem Ashour
  */
 #ifndef ERROR_STATE_H_
 #define ERROR_STATE_H_
